@@ -1,0 +1,57 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+.hero
+{
+    height: 86.5vh;
+    background-color: aquamarine;
+    padding: 0px;
+}
+.nav
+{
+    background-color: #001240;
+    border: 1px solid red;
+    padding: 0px;
+    box-shadow: 0px 1px 8px grey;
+}
+.nn
+{
+    padding: 10px 10px;
+    width: 100%;
+}
+.Menu
+{
+    height: 100vh;
+    position: absolute;
+    z-index: 2;
+}
+.mm
+{
+    background-color: tomato;
+    padding-top: 7%;
+    height: 100vh;
+    font-size: 40px;
+    text-align: center;
+}
+.pp
+{
+    background-color: #001240;
+    height: 100vh;
+}
+.mm ul
+{
+    list-style-type: none;
+}
+.mm ul li
+{
+    margin-top: 30px;
+}
+.cross
+{
+    position: absolute;
+    z-index: 2;
+    top: 10px;
+    right: 30px;
+}
